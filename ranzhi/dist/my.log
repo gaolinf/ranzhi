@@ -1,0 +1,647 @@
+[INFO ] 2017-11-21 08:46:18,103 com.webtest.util.Log - 
+[INFO ] 2017-11-21 08:48:11,518 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 08:48:11,554 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 08:50:34,819 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 08:53:59,113 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 08:53:59,116 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 08:54:05,175 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 08:54:06,318 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='form-control']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.aHtrdWSPDBXh, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13452, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: d030ea9a-6fa0-49aa-801d-20cc7a034d1c
+*** Element info: {Using=name, value=form-control}
+[INFO ] 2017-11-21 08:54:55,064 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 08:54:55,068 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 08:54:59,360 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 08:54:59,649 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='form-control']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.B0oL5kYksFir, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10828, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: cc0c3c7e-c3c4-4b17-aef8-903028a6fc49
+*** Element info: {Using=name, value=form-control}
+[INFO ] 2017-11-21 08:56:11,271 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 08:56:11,274 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 08:56:53,972 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 08:56:53,986 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.ecW4hHMAYO8S, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=9432, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: e1364757-4ded-415c-884f-32c7c202e88c
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-21 08:56:53,997 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.ecW4hHMAYO8S, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=9432, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: e1364757-4ded-415c-884f-32c7c202e88c
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-21 08:56:54,004 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.ecW4hHMAYO8S, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=9432, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: e1364757-4ded-415c-884f-32c7c202e88c
+*** Element info: {Using=xpath, value=.//*[@id='submit']}
+[INFO ] 2017-11-21 08:57:09,159 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 08:57:09,162 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 08:57:12,751 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:00:21,268 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:00:21,281 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:00:21,516 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='s-menu-superadmin']/button
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.ywZvptlWRHJb, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3656, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 256c6328-e693-4527-bba4-48806229b36a
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 09:00:28,101 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:01:42,735 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:01:42,753 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:01:42,894 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='s-menu-superadmin']/button
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.zp6XX1sr6JoW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13580, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 4ea74e21-0271-4a08-99d0-58852a135d82
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 09:01:47,073 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:02:43,961 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:02:43,973 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:02:44,082 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='s-menu-superadmin']/button
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.5dgTvXuMv3xe, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=7004, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: b3208148-3003-40d6-9d0c-ed532989d596
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 09:02:47,637 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:04:24,992 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:04:24,997 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:04:53,404 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:04:53,407 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.IKvFVM8CsQMp, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6248, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 443ff6ee-994d-4930-a5d8-959da30da692
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-21 09:04:53,423 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.IKvFVM8CsQMp, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6248, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 443ff6ee-994d-4930-a5d8-959da30da692
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-21 09:04:53,423 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.IKvFVM8CsQMp, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6248, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 443ff6ee-994d-4930-a5d8-959da30da692
+*** Element info: {Using=xpath, value=.//*[@id='submit']}
+[INFO ] 2017-11-21 09:04:53,439 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.IKvFVM8CsQMp, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6248, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 443ff6ee-994d-4930-a5d8-959da30da692
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 09:05:04,120 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:05:04,133 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:05:30,678 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:05:30,697 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.VEzyQVXux8RN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12056, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 854d9d33-b4cb-493c-9a5e-74f2f4390bb5
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-21 09:05:30,697 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.VEzyQVXux8RN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12056, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 854d9d33-b4cb-493c-9a5e-74f2f4390bb5
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-21 09:05:30,712 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.VEzyQVXux8RN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12056, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 854d9d33-b4cb-493c-9a5e-74f2f4390bb5
+*** Element info: {Using=xpath, value=.//*[@id='submit']}
+[INFO ] 2017-11-21 09:05:30,712 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.VEzyQVXux8RN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12056, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 854d9d33-b4cb-493c-9a5e-74f2f4390bb5
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 09:05:46,751 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:05:46,755 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:05:50,223 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:06:48,203 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:06:48,363 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:06:48,504 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='s-menu-superadmin']/button
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.ZIkVky1raku0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12312, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 57869d9e-d9f7-4bd0-b486-eba050388aac
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 09:07:26,265 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:07:26,414 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:07:26,492 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='s-menu-superadmin']/button
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.a6jPDg32oUmC, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10640, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 99670f7b-99fd-40d5-8793-5b6f94828521
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 09:11:50,441 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:11:50,448 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:12:34,587 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:12:34,602 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.1WimBDBB1XLV, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=880, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: e6f8e17f-0cfc-451c-bcfd-f73d10bff7bc
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-21 09:12:34,618 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.1WimBDBB1XLV, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=880, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: e6f8e17f-0cfc-451c-bcfd-f73d10bff7bc
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-21 09:12:34,624 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.1WimBDBB1XLV, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=880, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: e6f8e17f-0cfc-451c-bcfd-f73d10bff7bc
+*** Element info: {Using=xpath, value=.//*[@id='submit']}
+[INFO ] 2017-11-21 09:12:34,639 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.1WimBDBB1XLV, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=880, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: e6f8e17f-0cfc-451c-bcfd-f73d10bff7bc
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 09:12:59,459 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:12:59,478 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:13:05,899 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:13:32,069 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:13:32,087 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:13:35,665 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:27:01,800 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:27:01,821 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:27:10,066 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:27:14,425 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='s-menu-superadmin']/button
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.7AgBEuKTSwtq, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11124, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6d1311e1-daaf-48f8-b690-2c1e4c1b2b7b
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 09:27:15,127 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='mainNavbar']/ul/li[1]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.7AgBEuKTSwtq, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11124, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6d1311e1-daaf-48f8-b690-2c1e4c1b2b7b
+*** Element info: {Using=xpath, value=.//*[@id='mainNavbar']/ul/li[1]/a}
+[INFO ] 2017-11-21 09:27:17,445 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='name']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.7AgBEuKTSwtq, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11124, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6d1311e1-daaf-48f8-b690-2c1e4c1b2b7b
+*** Element info: {Using=name, value=name}
+[INFO ] 2017-11-21 09:27:18,547 com.webtest.util.Log - .//*[@id='password']can't find element by prefix.
+[INFO ] 2017-11-21 09:27:58,906 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:27:58,911 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:28:43,013 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:28:43,043 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.aIo3s2k3oX02, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13776, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5bcbfefd-de5e-47da-ab3c-4771db42bc26
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-21 09:28:43,043 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.aIo3s2k3oX02, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13776, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5bcbfefd-de5e-47da-ab3c-4771db42bc26
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-21 09:28:43,059 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.aIo3s2k3oX02, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13776, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5bcbfefd-de5e-47da-ab3c-4771db42bc26
+*** Element info: {Using=xpath, value=.//*[@id='submit']}
+[INFO ] 2017-11-21 09:28:43,074 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.aIo3s2k3oX02, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13776, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5bcbfefd-de5e-47da-ab3c-4771db42bc26
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 09:28:43,074 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.aIo3s2k3oX02, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13776, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5bcbfefd-de5e-47da-ab3c-4771db42bc26
+*** Element info: {Using=xpath, value=.//*[@id='mainNavbar']/ul/li[1]/a}
+[INFO ] 2017-11-21 09:28:43,090 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.aIo3s2k3oX02, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13776, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5bcbfefd-de5e-47da-ab3c-4771db42bc26
+*** Element info: {Using=name, value=name}
+[INFO ] 2017-11-21 09:29:01,692 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:29:01,695 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:29:14,051 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:29:18,439 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='mainNavbar']/ul/li[1]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.dgLIUQFugz2f, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11660, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6bfe6297-118b-49c2-9454-8520724e171d
+*** Element info: {Using=xpath, value=.//*[@id='mainNavbar']/ul/li[1]/a}
+[INFO ] 2017-11-21 09:29:18,456 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='name']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.dgLIUQFugz2f, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11660, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6bfe6297-118b-49c2-9454-8520724e171d
+*** Element info: {Using=name, value=name}
+[INFO ] 2017-11-21 09:29:18,546 com.webtest.util.Log - .//*[@id='password']can't find element by prefix.
+[INFO ] 2017-11-21 09:29:50,883 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:29:50,899 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:29:55,098 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:30:01,439 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='mainNavbar']/ul/li[1]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.zcb2FX1Oepvy, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11364, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: a32ca0e0-fc4b-479e-b278-03f0fe9ba4d1
+*** Element info: {Using=xpath, value=.//*[@id='mainNavbar']/ul/li[1]/a}
+[INFO ] 2017-11-21 09:30:01,451 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='name']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.zcb2FX1Oepvy, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11364, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: a32ca0e0-fc4b-479e-b278-03f0fe9ba4d1
+*** Element info: {Using=name, value=name}
+[INFO ] 2017-11-21 09:30:01,566 com.webtest.util.Log - .//*[@id='password']can't find element by prefix.
+[INFO ] 2017-11-21 09:31:39,208 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:31:39,219 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:31:52,957 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:31:58,127 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='mainNavbar']/ul/li[1]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.mIASJoHNZ9VU, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=8172, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: d69a0290-4b31-440d-b0b6-9b90f72a7563
+*** Element info: {Using=xpath, value=.//*[@id='mainNavbar']/ul/li[1]/a}
+[INFO ] 2017-11-21 09:31:58,142 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='name']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.mIASJoHNZ9VU, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=8172, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: d69a0290-4b31-440d-b0b6-9b90f72a7563
+*** Element info: {Using=name, value=name}
+[INFO ] 2017-11-21 09:31:58,720 com.webtest.util.Log - .//*[@id='password']can't find element by prefix.
+[INFO ] 2017-11-21 09:33:49,508 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:33:49,512 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:33:54,416 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:33:58,879 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='mainNavbar']/ul/li[1]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.aYCzo3xW0cfd, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10208, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: c61b73a4-7d28-46ec-9eb1-89bbb9cb90ca
+*** Element info: {Using=xpath, value=.//*[@id='mainNavbar']/ul/li[1]/a}
+[INFO ] 2017-11-21 09:33:58,896 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='name']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.aYCzo3xW0cfd, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10208, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: c61b73a4-7d28-46ec-9eb1-89bbb9cb90ca
+*** Element info: {Using=name, value=name}
+[INFO ] 2017-11-21 09:33:59,010 com.webtest.util.Log - .//*[@id='password']can't find element by prefix.
+[INFO ] 2017-11-21 09:35:34,990 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:35:35,004 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:35:40,013 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:35:47,242 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='mainNavbar']/ul/li[1]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '192.168.220.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.d635L2P3PL52, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13404, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6ad2a3fc-fa55-492b-b26e-6b3879b1559d
+*** Element info: {Using=xpath, value=.//*[@id='mainNavbar']/ul/li[1]/a}
+[INFO ] 2017-11-21 09:35:47,257 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='name']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '192.168.220.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.d635L2P3PL52, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13404, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6ad2a3fc-fa55-492b-b26e-6b3879b1559d
+*** Element info: {Using=name, value=name}
+[INFO ] 2017-11-21 09:35:47,353 com.webtest.util.Log - .//*[@id='password']can't find element by prefix.
+[INFO ] 2017-11-21 09:37:14,306 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:37:14,312 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:37:17,869 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:37:24,674 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='mainNavbar']/ul/li[1]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '192.168.220.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.bbpQ9JV9iaRm, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=7468, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: e693dffc-ab3a-4ed7-93a5-d06fdc6eda96
+*** Element info: {Using=xpath, value=.//*[@id='mainNavbar']/ul/li[1]/a}
+[INFO ] 2017-11-21 09:37:24,700 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='name']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '192.168.220.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.bbpQ9JV9iaRm, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=7468, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: e693dffc-ab3a-4ed7-93a5-d06fdc6eda96
+*** Element info: {Using=name, value=name}
+[INFO ] 2017-11-21 09:37:24,820 com.webtest.util.Log - .//*[@id='password']can't find element by prefix.
+[INFO ] 2017-11-21 09:40:53,029 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:40:53,034 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:40:56,652 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:41:00,836 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='mainNavbar']/ul/li[1]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '192.168.220.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.bNfjFd0ry93f, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=1864, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 032f9291-15f8-449d-93bb-cdcc01af51f3
+*** Element info: {Using=xpath, value=.//*[@id='mainNavbar']/ul/li[1]/a}
+[INFO ] 2017-11-21 09:41:04,035 com.webtest.util.Log - Entered iframe iframe-superadmin
+[INFO ] 2017-11-21 09:41:04,049 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='name']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '192.168.220.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.bNfjFd0ry93f, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=1864, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 032f9291-15f8-449d-93bb-cdcc01af51f3
+*** Element info: {Using=name, value=name}
+[INFO ] 2017-11-21 09:41:04,127 com.webtest.util.Log - .//*[@id='password']can't find element by prefix.
+[INFO ] 2017-11-21 09:46:17,020 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:46:17,024 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:46:21,249 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:46:29,176 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='s-menu-superadmin']/button
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.kl3SRTisgOLI, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=5608, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: a050babd-2fec-4f21-81cb-df496d4463bc
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 09:47:04,255 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:47:04,259 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:47:07,950 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:47:15,996 com.webtest.util.Log - Entered iframe iframe-superadmin
+[INFO ] 2017-11-21 09:47:20,320 com.webtest.util.Log - .//*[@id='password']can't find element by prefix.
+[INFO ] 2017-11-21 09:48:38,329 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:48:38,335 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:49:07,890 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:49:07,906 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.oZmXpztCLZov, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=2964, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: da6d6c72-5cf3-4894-a3d0-11a32a93055d
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-21 09:49:07,922 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.oZmXpztCLZov, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=2964, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: da6d6c72-5cf3-4894-a3d0-11a32a93055d
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-21 09:49:07,922 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.oZmXpztCLZov, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=2964, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: da6d6c72-5cf3-4894-a3d0-11a32a93055d
+*** Element info: {Using=xpath, value=.//*[@id='submit']}
+[INFO ] 2017-11-21 09:49:07,937 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.oZmXpztCLZov, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=2964, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: da6d6c72-5cf3-4894-a3d0-11a32a93055d
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 09:49:36,696 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:49:36,710 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:49:43,150 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:49:50,119 com.webtest.util.Log - Entered iframe iframe-superadmin
+[INFO ] 2017-11-21 09:49:52,141 com.webtest.util.Log - .//*[@id='password']can't find element by prefix.
+[INFO ] 2017-11-21 09:54:51,303 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:54:51,314 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:54:54,888 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:55:02,447 com.webtest.util.Log - Entered iframe iframe-superadmin
+[INFO ] 2017-11-21 09:55:04,935 com.webtest.util.Log - .//*[@id='submit']can't find element by prefix.
+[INFO ] 2017-11-21 09:56:18,814 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:56:18,835 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:56:22,263 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 09:56:29,367 com.webtest.util.Log - Entered iframe iframe-superadmin
+[INFO ] 2017-11-21 10:31:09,633 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 10:31:09,649 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 10:31:23,872 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 10:31:27,605 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='s-menu-superadmin']/button
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.xbp9belasezd, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=7000, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ab9559d0-d33c-48e4-aa64-54c238d9ba5d
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 10:32:08,841 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 10:32:08,852 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 10:32:25,415 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 10:32:25,429 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.zpx77SA2v1p8, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=1940, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ab6779bf-5a3a-48f7-b330-2c897457beae
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-21 10:32:25,429 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.zpx77SA2v1p8, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=1940, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ab6779bf-5a3a-48f7-b330-2c897457beae
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-21 10:32:25,445 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.zpx77SA2v1p8, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=1940, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ab6779bf-5a3a-48f7-b330-2c897457beae
+*** Element info: {Using=xpath, value=.//*[@id='submit']}
+[INFO ] 2017-11-21 10:32:25,460 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.zpx77SA2v1p8, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=1940, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ab6779bf-5a3a-48f7-b330-2c897457beae
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 10:32:45,660 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 10:32:45,674 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 10:32:52,206 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 10:33:02,344 com.webtest.util.Log - Entered iframe iframe-superadmin
+[INFO ] 2017-11-21 10:40:11,400 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 10:40:11,415 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 10:40:33,093 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 10:40:33,099 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.A80W5rCgS06U, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=1028, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 4efcccd0-4a07-468f-a511-d94b4f4c7b89
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-21 10:40:33,115 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.A80W5rCgS06U, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=1028, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 4efcccd0-4a07-468f-a511-d94b4f4c7b89
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-21 10:40:33,115 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.A80W5rCgS06U, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=1028, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 4efcccd0-4a07-468f-a511-d94b4f4c7b89
+*** Element info: {Using=xpath, value=.//*[@id='submit']}
+[INFO ] 2017-11-21 10:40:33,130 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.A80W5rCgS06U, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=1028, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 4efcccd0-4a07-468f-a511-d94b4f4c7b89
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 10:40:47,960 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 10:40:47,965 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 10:40:53,146 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 10:41:01,288 com.webtest.util.Log - Entered iframe iframe-superadmin
+[INFO ] 2017-11-21 10:50:40,191 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 10:50:40,196 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 10:51:06,608 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 10:51:06,612 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.DgaVfaUWCcyH, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=4692, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: d0877020-ac92-4204-b223-5523cb3f758b
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-21 10:51:06,627 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.DgaVfaUWCcyH, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=4692, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: d0877020-ac92-4204-b223-5523cb3f758b
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-21 10:51:06,627 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.DgaVfaUWCcyH, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=4692, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: d0877020-ac92-4204-b223-5523cb3f758b
+*** Element info: {Using=xpath, value=.//*[@id='submit']}
+[INFO ] 2017-11-21 10:51:06,643 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.DgaVfaUWCcyH, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=4692, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: d0877020-ac92-4204-b223-5523cb3f758b
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 10:51:22,121 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 10:51:22,126 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 10:51:25,844 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 10:51:35,992 com.webtest.util.Log - Entered iframe iframe-superadmin
+[INFO ] 2017-11-21 10:51:38,717 com.webtest.util.Log - .//*[@id='submit']can't find element by prefix.
+[INFO ] 2017-11-21 10:55:47,623 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 10:55:47,628 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 10:56:10,936 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 10:56:10,941 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.xpSeYci8xp8j, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=9952, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ac6d4830-3734-413a-bcc3-cb8a631bca5e
+*** Element info: {Using=name, value=account}
+[INFO ] 2017-11-21 10:56:10,957 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.xpSeYci8xp8j, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=9952, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ac6d4830-3734-413a-bcc3-cb8a631bca5e
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-21 10:56:10,972 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.xpSeYci8xp8j, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=9952, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ac6d4830-3734-413a-bcc3-cb8a631bca5e
+*** Element info: {Using=xpath, value=.//*[@id='submit']}
+[INFO ] 2017-11-21 10:56:10,972 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'CHARLES', ip: '10.7.90.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\林飞\AppData\Local\Temp\rust_mozprofile.xpSeYci8xp8j, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=9952, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ac6d4830-3734-413a-bcc3-cb8a631bca5e
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-superadmin']/button}
+[INFO ] 2017-11-21 10:56:28,298 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 10:56:28,310 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 10:56:31,710 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 10:56:39,159 com.webtest.util.Log - Entered iframe iframe-superadmin
+[INFO ] 2017-11-21 10:57:59,147 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 10:57:59,164 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 10:58:04,619 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 10:58:13,171 com.webtest.util.Log - Entered iframe iframe-superadmin
+[INFO ] 2017-11-21 10:58:51,293 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 10:58:51,310 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 10:58:55,008 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 10:59:03,023 com.webtest.util.Log - Entered iframe iframe-superadmin
+[INFO ] 2017-11-21 11:14:59,379 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 11:14:59,393 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 11:15:05,120 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login-L3JhbnpoaS9zeXMv.html
+[INFO ] 2017-11-21 11:15:15,619 com.webtest.util.Log - Entered iframe iframe-superadmin
