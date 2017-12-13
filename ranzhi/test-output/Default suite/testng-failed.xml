@@ -5,7 +5,7 @@
     <classes>
       <class name="ranzhi.login">
         <methods>
-          <include name="bmname"/>
+          <include name="shangjibumen"/>
           <include name="GetInBackStage"/>
           <include name="loginranzhi"/>
           <include name="doBeforeMethod"/>
