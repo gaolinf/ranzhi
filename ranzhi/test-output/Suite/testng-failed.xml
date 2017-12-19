@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="ranzhi.Organization">
+        <methods>
+          <include name="GetInBackStage"/>
+          <include name="shangjibumen"/>
+          <include name="bmname"/>
+          <include name="bumenmanager"/>
+          <include name="findmember"/>
+          <include name="bumenname"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- ranzhi.Organization -->
+      <class name="ranzhi.Permission">
+        <methods>
+          <include name="GetInBackStage"/>
+          <include name="groupmembers"/>
+          <include name="editgroup"/>
+          <include name="groupSQ"/>
+          <include name="shouquan"/>
+          <include name="addgroup"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- ranzhi.Permission -->
+      <class name="ranzhi.AddMembers">
+        <methods>
+          <include name="testAddMembers" invocation-numbers="0 1 2 3 4 5 6 7 8 9"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- ranzhi.AddMembers -->
+      <class name="ranzhi.Extend">
+        <methods>
+          <include name="GetInBackStage"/>
+          <include name="Pluginuse"/>
+          <include name="DownloadPlugin"/>
+          <include name="Extension"/>
+          <include name="Plugininfoemation"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- ranzhi.Extend -->
+      <class name="ranzhi.System">
+        <methods>
+          <include name="ClosePlantask"/>
+          <include name="DeleteBackups"/>
+          <include name="sendEmail"/>
+          <include name="EditsendEmail"/>
+          <include name="recyclebin"/>
+          <include name="LAplantask"/>
+          <include name="backups"/>
+          <include name="TestsendEmail"/>
+          <include name="GetInBackStage"/>
+          <include name="xuanxuanKey"/>
+          <include name="RestoreBackups"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- ranzhi.System -->
+      <class name="ranzhi.Application">
+        <methods>
+          <include name="AppStyle"/>
+          <include name="InstallWebApp"/>
+          <include name="SearchWebApp"/>
+          <include name="WebAppInformation"/>
+          <include name="ScanWebAppList"/>
+          <include name="EditApp"/>
+          <include name="AddApps2"/>
+          <include name="AppGroup2"/>
+          <include name="WebAppPageSetting"/>
+          <include name="AddApps1"/>
+          <include name="AppGroup1"/>
+          <include name="PreviewWebApp"/>
+          <include name="AppPermission"/>
+          <include name="BrowseWebApp"/>
+          <include name="GetInBackStage"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- ranzhi.Application -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

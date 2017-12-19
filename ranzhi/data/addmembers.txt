@@ -1,0 +1,11 @@
+用户名	真实姓名	密码	确认密码	邮箱
+gaoqliinf	gao	123456	123456	12312456@126.com
+哦林	哈哈	123456	123456	12341256@163.com
+@@#￥	！@@￥	123456	123456	12312456@126.com
+112423	1234	123456	123456	12341256@126.com
+gaoojh	高	123456	123456	12011256@qq.com
+hllloha	京	12345678	12345454	412284563@qq.com
+wwqqqqs	我	wwwdddda	wwwdddda	wdwdwgwwd@163.com
+wosdswowl	挂钩	999999glf	999999glf	glfgwrrsloo@foxmail.com
+dwddscwgd	花花	852852	852852	123485533678@qq
+guxxjuuk	哈哈哈哈哈啊	852123	852123	852123332@163.com

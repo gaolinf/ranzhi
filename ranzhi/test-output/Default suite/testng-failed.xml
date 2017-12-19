@@ -3,14 +3,17 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="ranzhi.login">
+      <class name="ranzhi.Organization">
         <methods>
-          <include name="shangjibumen"/>
           <include name="GetInBackStage"/>
-          <include name="loginranzhi"/>
+          <include name="shangjibumen"/>
+          <include name="bmname"/>
+          <include name="bumenmanager"/>
+          <include name="findmember"/>
+          <include name="bumenname"/>
           <include name="doBeforeMethod"/>
         </methods>
-      </class> <!-- ranzhi.login -->
+      </class> <!-- ranzhi.Organization -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

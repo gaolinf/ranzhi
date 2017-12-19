@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="10" total="13" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28722" started-at="2017-12-07T07:05:30Z" finished-at="2017-12-07T07:05:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28722" started-at="2017-12-07T07:05:30Z" finished-at="2017-12-07T07:05:59Z">
+      <class name="ranzhi.login">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:ranzhi.login@2b98378d]" name="doBeforeMethod" is-config="true" duration-ms="9676" started-at="2017-12-07T15:05:30Z" finished-at="2017-12-07T15:05:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="loginranzhi()[pri:0, instance:ranzhi.login@2b98378d]" name="loginranzhi" duration-ms="9114" started-at="2017-12-07T15:05:40Z" finished-at="2017-12-07T15:05:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginranzhi -->
+        <test-method status="PASS" signature="GetInBackStage()[pri:0, instance:ranzhi.login@2b98378d]" name="GetInBackStage" duration-ms="1461" started-at="2017-12-07T15:05:49Z" depends-on-methods="ranzhi.login.loginranzhi" finished-at="2017-12-07T15:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetInBackStage -->
+        <test-method status="PASS" signature="groupSQ()[pri:0, instance:ranzhi.login@2b98378d]" name="groupSQ" duration-ms="8428" started-at="2017-12-07T15:05:51Z" depends-on-methods="ranzhi.login.GetInBackStage" finished-at="2017-12-07T15:05:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- groupSQ -->
+      </class> <!-- ranzhi.login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+	<listener class-name="ranzhi.WebtestListener" />
+</listeners>
+  <test name="Test">
+  	<classes>	
+  		<class name="ranzhi.CompanyName"></class>
+  		<class name="ranzhi.AddMembers"></class>
+  		<class name="ranzhi.Organization"></class>
+  		<class name="ranzhi.Permission"></class>
+  		<class name="ranzhi.Application"></class>
+  		<class name="ranzhi.System"></class>
+  		<class name="ranzhi.Extend"></class>
+  		
+  	</classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
